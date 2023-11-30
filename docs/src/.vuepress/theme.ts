@@ -10,7 +10,7 @@ export default hopeTheme({
 
   author: {
     name: "Yuki",
-    url: "https://github.com/xvzhifeng",
+    url: "https://github.com/Yukimx",
     email: ""
   },
 
@@ -18,7 +18,7 @@ export default hopeTheme({
 
   logo: " .svg",
 
-  repo: "xvzhifeng/blog",
+  repo: "Yukimx/blog",
 
   docsDir: "docs/src",
   docsBranch: "master",
