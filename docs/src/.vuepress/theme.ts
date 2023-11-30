@@ -16,7 +16,7 @@ export default hopeTheme({
 
   iconAssets: "iconfont",
 
-  logo: " .svg",
+  // logo: " .svg",
 
   repo: "Yukimx/blog",
 
