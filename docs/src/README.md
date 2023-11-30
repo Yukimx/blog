@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: Blog Home
-heroImage: /logo.svg
+heroImage: 
 heroText: Yuki's blog
 tagline: The sword edge is sharpened, and the fragrance of plum blossoms comes from the bitter cold
 heroFullScreen: true

@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://zhifeng.top/sitemap.xml
+Sitemap: https://yukimx.top/sitemap.xml
