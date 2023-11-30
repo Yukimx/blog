@@ -11,7 +11,7 @@ export default hopeTheme({
   author: {
     name: "Yuki",
     url: "https://github.com/xvzhifeng",
-    email: "xvzhifeng@126.com"
+    email: ""
   },
 
   iconAssets: "iconfont",
