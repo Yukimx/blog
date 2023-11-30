@@ -3,10 +3,10 @@ home: true
 layout: BlogHome
 icon: home
 title: "主页"
-heroImage: /logo.svg
+heroImage:  .svg
 heroText: Yuki的博客
 heroFullScreen: true
-tagline: 宝剑锋从磨砺出，梅花香自苦寒来
+tagline: 逆向从入门到入土
 projects:
   - icon: project
     name: go practice
@@ -33,7 +33,7 @@ projects:
   #   desc: 伙伴详细介绍
   #   link: https://你的伙伴链接
 
-  # - icon: /logo.svg
+  # - icon:  .svg
   #   name: 自定义项目
   #   desc: 自定义详细介绍
   #   link: https://你的自定义链接

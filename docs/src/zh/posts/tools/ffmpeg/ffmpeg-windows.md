@@ -207,7 +207,7 @@ ffmpeg -filter_complex "subtitles='a.srt File - 1 srtout.mp4'"
 #### 添加LOGO水印
 
 ```bash
-ffmpeg -i I:/8.mp4 -i I:/logo.png -filter_complex overlay I:/8-logo.mp4
+ffmpeg -i I:/8.mp4 -i I: .png -filter_complex overlay I:/8-logo.mp4
 ffmpeg -i /mnt/hgfs/shared/resource/shenghua.avi -i /mnt/hgfs/shared/resource/my_logo.png -filter_complex overlay /mnt/hgfs/shared/resource/shenghua_die.mp4
 ```
 

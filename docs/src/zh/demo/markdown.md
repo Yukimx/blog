@@ -172,7 +172,7 @@ npm i -D vuepress-theme-hope
 ```card
 title: Mr.Hope
 desc: Where there is light, there is hope
-logo: https://mrhope.site/logo.svg
+logo: https://mrhope.site .svg
 link: https://mrhope.site
 color: rgba(253, 230, 138, 0.15)
 ```

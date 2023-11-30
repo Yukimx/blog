@@ -33,7 +33,7 @@ projects:
   #   desc: Detailed description of friend
   #   link: https://link.to.your.friend
 
-  # - icon: /logo.svg
+  # - icon:  .svg
   #   name: custom item
   #   desc: Detailed description of this custom item
   #   link: https://link.to.your.friend
