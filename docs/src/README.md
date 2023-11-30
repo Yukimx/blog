@@ -4,7 +4,7 @@ layout: BlogHome
 icon: home
 title: Blog Home
 heroImage: /logo.svg
-heroText: Sumu's blog
+heroText: Yuki's blog
 tagline: The sword edge is sharpened, and the fragrance of plum blossoms comes from the bitter cold
 heroFullScreen: true
 projects:
@@ -38,7 +38,7 @@ projects:
   #   desc: Detailed description of this custom item
   #   link: https://link.to.your.friend
 
-footer: sumu's blog
+footer: Yuki's blog
 ---
 
 <!-- This is a blog home page demo.

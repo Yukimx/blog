@@ -7,12 +7,12 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "en-US",
-      title: "Sumu's Blog",
+      title: "Yuki's Blog",
       description: "Technical Notes",
     },
     "/zh/": {
       lang: "zh-CN",
-      title: "苏木的博客",
+      title: "Yuki的博客",
       description: "学习记录",
     },
   },

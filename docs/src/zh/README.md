@@ -4,7 +4,7 @@ layout: BlogHome
 icon: home
 title: "主页"
 heroImage: /logo.svg
-heroText: 苏木的博客
+heroText: Yuki的博客
 heroFullScreen: true
 tagline: 宝剑锋从磨砺出，梅花香自苦寒来
 projects:
@@ -38,7 +38,7 @@ projects:
   #   desc: 自定义详细介绍
   #   link: https://你的自定义链接
 
-footer: sumu's blog
+footer: Yuki's blog
 ---
 
 <!-- 这是一个博客主页的案例。

@@ -9,7 +9,7 @@ export default hopeTheme({
   hostname: "https://zhifeng.top/",
 
   author: {
-    name: "Sumu",
+    name: "Yuki",
     url: "https://github.com/xvzhifeng",
     email: "xvzhifeng@126.com"
   },
@@ -62,7 +62,7 @@ export default hopeTheme({
     },
   },
 
-  copyright: "MIT Licensed | Copyright © 2023-present Sumu",
+  copyright: "MIT Licensed | Copyright © 2023-present Yuki",
 
   locales: {
     "/": {

@@ -33,7 +33,7 @@ git log --format='%aN' | sort -u | while read name; do echo -en "$name\t"; git l
 
 ```sh
 xuzhif	added lines: 4323, removed lines: 164, total lines: 4159
-苏木	added lines: 274, removed lines: 0, total lines: 274
+Yuki	added lines: 274, removed lines: 0, total lines: 274
 徐志锋	added lines: 75592, removed lines: 104, total lines: 75488
 ```
 
