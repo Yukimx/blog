@@ -7,11 +7,11 @@ title: Blog Home
 heroText: Yuki's blog
 tagline: The sword edge is sharpened, and the fragrance of plum blossoms comes from the bitter cold
 heroFullScreen: true
-projects:
-  - icon: project
-    name: go practice
-    desc: 使用go开发的小工具
-    link: https://github.com/xvzhifeng/go-practice
+# projects:
+#   - icon: project
+#     name: go practice
+#     desc: 使用go开发的小工具
+#     link: https://github.com/xvzhifeng/go-practice
 
   # - icon: link
   #   name: link name

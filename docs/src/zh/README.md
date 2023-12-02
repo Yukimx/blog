@@ -3,15 +3,15 @@ home: true
 layout: BlogHome
 icon: home
 title: "主页"
-heroImage:  .svg
+# heroImage:  .svg
 heroText: Yuki的博客
 heroFullScreen: true
 tagline: 逆向从入门到入土
-projects:
-  - icon: project
-    name: go practice
-    desc: 使用go开发的小工具
-    link: https://github.com/xvzhifeng/go-practice
+# projects:
+#   - icon: project
+#     name: go practice
+#     desc: 使用go开发的小工具
+#     link: https://github.com/xvzhifeng/go-practice
 
   # - icon: link
   #   name: 链接名称
