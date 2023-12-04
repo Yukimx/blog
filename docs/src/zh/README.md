@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: "主页"
-heroImage:
+# heroImage:
 # heroText: Yuki的博客
 heroFullScreen: true
 tagline: 逆向从入门到入土
