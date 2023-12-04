@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: "主页"
-# heroImage:  .svg
+heroImage:  /zh/00-resource/beautifulred.jpg
 heroText: Yuki的博客
 heroFullScreen: true
 tagline: 逆向从入门到入土
